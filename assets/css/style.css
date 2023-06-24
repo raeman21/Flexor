@@ -103,7 +103,7 @@ h6 {
 }
 
 #topbar .contact-info i a:hover {
-  color: #ff5821;
+  color: #a32c05;
 }
 
 #topbar .cta a {
@@ -115,7 +115,7 @@ h6 {
 }
 
 #topbar .cta a:hover {
-  background: #ff6b3b;
+  background: #a32c05
 }
 
 /*--------------------------------------------------------------
@@ -206,12 +206,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ff5821;
+  color: #a32c05;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #ff5821;
+  background: #a32c05;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -221,7 +221,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #ff6b3b;
+  background: #a32c05;
 }
 
 .navbar .dropdown ul {
@@ -255,7 +255,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ff5821;
+  color: #a32c05;
 }
 
 .navbar .dropdown:hover>ul {
@@ -355,7 +355,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ff5821;
+  color: #a32c05;
 }
 
 .navbar-mobile .getstarted,
@@ -390,7 +390,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ff5821;
+  color: #a32c05;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -585,7 +585,7 @@ section {
 
 .why-us .content {
   padding: 30px;
-  background: #c73605;
+  background: #a32c05;
   border-radius: 4px;
   color: #fff;
 }
@@ -944,7 +944,7 @@ section {
 }
 
 .values .card:hover .card-body {
-  background: #ff5821;
+  background: #a32c05;;
 }
 
 .values .card:hover .read-more a,
