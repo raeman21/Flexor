@@ -716,7 +716,7 @@ section {
 .about .video-box {
   background: url("../img/Conferenceregistrationextension.jpeg") center center no-repeat;
   background-size: contain;
-  min-height: 300px;
+  min-height: 500px;
 }
 
 .about .play-btn {
