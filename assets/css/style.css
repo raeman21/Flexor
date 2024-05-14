@@ -714,9 +714,9 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/SCDHCpaymentdetails.jpg") center center no-repeat;
-  background-size: cover;
-  min-height: 500px;
+  background: url("../img/Conferenceregistrationextension.jpeg") center center no-repeat;
+  background-size: contain;
+  min-height: 300px;
 }
 
 .about .play-btn {
